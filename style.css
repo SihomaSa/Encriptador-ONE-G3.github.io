@@ -1,4 +1,6 @@
-
+.logo{
+    position: logo;
+}
 body{
     background-color: #E5E5E5;
     font-family: inherit;
