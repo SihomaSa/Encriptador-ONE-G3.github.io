@@ -74,7 +74,7 @@ main{
     position: absolute;
     width: 340px;
     height: 603px;
-    background-image: url("/imagenes/Group\ 8.png");
+    background-image: url("imagenes/Group\ 8.png");
     background-repeat: no-repeat;
     border-radius: 32px;
     border: #0A3871;
